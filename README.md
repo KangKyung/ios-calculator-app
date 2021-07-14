@@ -7,7 +7,7 @@
 ![Calculate_UML](https://cdn.discordapp.com/attachments/823385681975443457/827386421472002078/unknown.png)
 
 ### FlowChart
-[Calculate_Diagram](https://user-images.githubusercontent.com/38858863/113371735-043ca380-93a2-11eb-8a89-8244f0fed24a.png)
+![Calculate_Diagram](https://user-images.githubusercontent.com/38858863/113371735-043ca380-93a2-11eb-8a89-8244f0fed24a.png)
 
 ## Code Review
 
