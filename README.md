@@ -1,7 +1,7 @@
-## iOS Calculator App
+## ios-calculator-app
 
 ### Comand Line
-![Screen](https://cdn.discordapp.com/attachments/823385681975443457/827386880936902666/unknown.png)
+![ios-calculator-app](https://user-images.githubusercontent.com/38858863/125612105-1c651521-6942-4a3a-8839-39fd30257d59.gif)
 
 ### UML
 ![Calculate_UML](https://cdn.discordapp.com/attachments/823385681975443457/827386421472002078/unknown.png)
