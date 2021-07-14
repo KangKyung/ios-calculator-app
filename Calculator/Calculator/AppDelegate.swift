@@ -7,7 +7,7 @@
 import UIKit
 
 // UI개발 진행 시, main.swift 파일 삭제예정
-//@main
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
